@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\coding 2\\Blockchain\\30DaysOfSmartContract-Projects\\2-Calculator-30DaysOfSmartContract\\contracts\\Calculator.sol": {
+      "lastModificationDate": 1630689555441,
+      "contentHash": "3d22ca8f904ad240761aebd51e886a63",
+      "sourceName": "contracts/Calculator.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.0"
+      ],
+      "artifacts": [
+        "Calculator"
+      ]
+    }
+  }
+}
