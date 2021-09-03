@@ -1,6 +1,6 @@
 
 
-# 1️⃣ Simple-Calculator-Operations
+# 2️⃣ Simple-Calculator-Operations
 
 Welcome to my cheap thrills! Where I exciting new technology like Blockchain and then make a silly Dapp/Project where people will have to spend money for calculating 10+2 😅😅
 
