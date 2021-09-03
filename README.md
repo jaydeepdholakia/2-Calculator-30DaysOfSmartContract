@@ -6,7 +6,7 @@ Welcome to my cheap thrills! Where I exciting new technology like Blockchain and
 
 Welcome to 2nd project of [30 Days Of Smart Contract series](https://github.com/jaydeepdholakia/30-Days-Of-Smart-Contract). As you read above, I am going to make a simple calculator Dapp with a UI here. Please don't judge me! I already am doing that for myself!
 
-You can interact with the Dapp here: [ ](https://hello-world-30dosc.herokuapp.com/)
+You can interact with the Dapp here: [Calculator on Blockchain](https://calculator-30dosc.herokuapp.com/)
 
 
 ## Run Locally
